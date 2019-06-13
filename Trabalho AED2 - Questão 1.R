@@ -54,7 +54,6 @@ plot(chol~bp.1s)
 abline(lm(chol~bp.1s), diabetes)
 summary(lm(chol~bp.1s))
 
-
 cor(ltfchol, ltfbp, use = 'complete.obs')
 plot(ltfchol~ltfbp)
 abline(lm(ltfchol~ltfbp), diabetes)
