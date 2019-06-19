@@ -25,8 +25,8 @@ plot(fom$frame, fom$glyhb, xlab = 'frame',
 
 #Item D
 
-table(gender, frame)
-prop.table(table(gender, frame), 2)
+table(frame, gender)
+prop.table(table(frame, gender), 2)
 
 #Item E
 
