@@ -1,0 +1,16 @@
+a)	A quantidade total de colesterol não parece variar muito entre tipos de corpo,
+em todos os 3 grupos a maioria das pessoas tem por volta de 200mg/dL.
+b)	Agora, são perceptíveis maiores diferenças entre os tipos de corpo, onde as pessoas que pertencem
+ao tipo de corpo pequeno tendem a possuir mais hdl do que as que pertencem ao tipo de corpo grande.
+c.1)<50: Novamente, vemos 3 grupos bem concentrados onde as pessoas que pertencem ao tipo de
+corpo grande tendem a possuir mais glyhb do que as que pertencem ao tipo de corpo pequeno.
+c.2)>=50: Agora, o tipo de corpo pequeno continua bem concentrado, mas os outros dois estão bem mais dispersos,
+havendo uma grande concentração de pessoas com glyhb menor que 6.
+Outra diferença do gráfico das pessoas com menos de 50 anos é que pessoas com o tipo de corpo médio são tendem a ter mais glyhb do que as de corpo grande,
+e todos os grupos tendem a ter mais glyhb do que as pessoas com menos de 50 anos, talvez revelando uma correlação da quantidade de glyhb com a idade do indivíduo.
+d)	A porcentagem de pessoas com tipo de corpo grande é maior nos homens do que nas mulheres,
+ambos os sexos possuem frequência alta de pessoas com corpo do tipo médio, e a porcentagem de pessoas com tipo de corpo pequeno é maior nas mulheres.
+Logo, é possível perceber uma correlação entre o sexo e o tipo de corpo da pessoa.
+e)	Temos uma correlação de aproximadamente 0.85 entre as duas variáves, é um número muito alto, as duas variáveis são altamente correlacionadas.
+f)	Temos uma correlação de aproximadamente 0.085 entre as duas variáveis, é um número praticamente irrelevante, não há correlação entre as duas variáveis.
+g)
